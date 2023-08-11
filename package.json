@@ -1,6 +1,6 @@
 {
   "name": "ele-tree-virtual",
-  "version": "1.0.1",
+  "version": "1.0.8",
   "description": "",
   "main": "dist/vue2-select-tree.ssr.js",
   "browser": "dist/vue2-select-tree.esm.js",
