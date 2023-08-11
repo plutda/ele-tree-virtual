@@ -1,0 +1,2 @@
+*.js      linguist-detectable=true linguist-vendored=false linguist-language=JavaScript linguist-percent=60
+*.vue      linguist-detectable=true linguist-vendored=false linguist-language=Vue linguist-percent=40
