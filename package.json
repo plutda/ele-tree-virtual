@@ -1,6 +1,6 @@
 {
   "name": "ele-tree-virtual",
-  "version": "1.0.8",
+  "version": "1.0.1",
   "description": "",
   "main": "dist/vue2-select-tree.ssr.js",
   "browser": "dist/vue2-select-tree.esm.js",
@@ -56,5 +56,9 @@
     "virtual-tree",
     "tag-input",
     "search-tree"
-  ]
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/plutda/ele-tree-virtual.git"
+  }
 }
