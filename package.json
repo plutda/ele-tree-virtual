@@ -60,5 +60,8 @@
   "repository": {
     "type": "git",
     "url": "git://github.com/plutda/ele-tree-virtual.git"
+  },
+  "publishConfig": {
+    "registry": "https://www.npmjs.com/package/ele-tree-virtual"
   }
 }
